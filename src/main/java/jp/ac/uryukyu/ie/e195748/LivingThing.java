@@ -1,5 +1,12 @@
 package jp.ac.uryukyu.ie.e195748;
 
+/**
+ * @author e195748
+ */
+
+/**
+ *　LivingThingのメソッド
+ */
 public class LivingThing {
 
     private String name;
@@ -14,7 +21,9 @@ public class LivingThing {
     public String getName() {
         return name;
     }
-
+    /**
+     * @param name ... test
+     */
     public void setName(String name) {
         this.name = name;
     }
